@@ -360,6 +360,18 @@ function App() {
           }
         </div>
 
+        <div>
+          KEY 1 : {key1}
+        </div>
+
+        <div>
+          KEY 2 : {key2}
+        </div>
+
+        <div>
+          KEY 3 : {key3}
+        </div>
+
       </div>
 
       {/* BOTTOM BAR */}
